@@ -1,0 +1,67 @@
+@media only screen and (max-width: 1000px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+
+  #header{
+    float: left;
+  }
+
+  h1{
+    margin-top: 100px;
+   text-align: center;
+  }
+#header-img{
+    width: 40%;
+    margin-left: 50px;
+    
+}
+
+#nav-bar{
+    position: absolute;
+    right: 50px;
+  
+}
+.nav-link{
+    padding-left: 50px;
+}
+
+ #first{
+    width:15%;
+    background-color: green;
+}
+ #second{
+    width:15%;
+    background-color: yellow;
+   
+}
+ #third{
+    width:15%;
+    background-color: red;
+   
+}
+.flex-container{
+    display: inline-flex;
+ margin-top: 100px;
+ margin-left: 50px;
+    height: 200px;
+    padding-left: 30px;
+    
+}
+#form{
+    margin: 100px;
+   padding-left: 400px;
+}
+
+#video{
+   margin: 100 auto;
+}
+
+#submit{
+    font-size: 20px;
+    margin-top: 20px;
+    text-align: center;
+    background-color: yellow;
+  margin-left: 50px;
+}
